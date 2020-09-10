@@ -7,4 +7,5 @@ This repo is identifying the outline and basic structure that allows the Groundw
 
 [How do open source projects manage contribution credit?](https://github.com/faiross-pbc/managing-contribution-credit)
 
+## Contributions
 IF YOU'D LIKE TO CONTRIBUTE TO THE DESIGN OF THE GROUNDWATER PROGRAM, PLEASE SUBMIT ISSUES AND PULL REQUESTS AGAINST THE REPO WIKI.  WE NEED YOUR HELP TO MAKE THIS WORK.
